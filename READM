@@ -1,0 +1,2 @@
+The select number of a slot machine is always index array item 0.
+so, Put the item to be pick in list [0] or use swap.
