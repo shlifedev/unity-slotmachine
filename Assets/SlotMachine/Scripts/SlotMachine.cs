@@ -77,10 +77,10 @@ public class SlotMachine : MonoBehaviour
         }
     }
     /// <summary>
-    /// Example StartSlotMachine(리스트, (스왑번호));
+    /// Example StartSlotMachine(List, (Swap array num));
     /// </summary>
     /// <param name="items"></param>
-    /// <param name="swapArray"></param>
+    /// <param name="swapArray">if your item picked array[1], input 1 </param>
     public void StartSlotMachine(List<int> items, int swapArrayNum = 0)
     {
         if (this.SlotStatus == Status.Running)
