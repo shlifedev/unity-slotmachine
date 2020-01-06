@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3391c584f4be9c44fa0b0e4915f2804f, type: 3}
+    - {fileID: 102900000, guid: 31957a01786a2b3458cbed45f0b818f8, type: 3}
+    totalSpriteSurfaceArea: 621144
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: bc46e555f1641b2784560b42f4a05146
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2907e810b05750c4e92568124d05b78a, type: 3}
+  - {fileID: 21300000, guid: b840c4724a7021b42ab9f60638df2199, type: 3}
+  - {fileID: 21300000, guid: 0b711dd2822e8964ab395246786c4628, type: 3}
+  - {fileID: 21300000, guid: b5685ce25fc2b7e44bfd4629a101c413, type: 3}
+  - {fileID: 21300000, guid: 48eeee13721925343a51ba0f5a850b6e, type: 3}
+  - {fileID: 21300000, guid: cffbd373d60d46a43a9e6ca7216790fc, type: 3}
+  - {fileID: 21300000, guid: 326c18858544d6949a7d69454dde2e15, type: 3}
+  - {fileID: 21300000, guid: d2a8b2b6332e05a49b8811ae11e5299f, type: 3}
+  - {fileID: 21300000, guid: d3893f07339fa884c8e70d4d3b7f6fd8, type: 3}
+  - {fileID: 21300000, guid: a2bef19c2fce0c040a546e16e460ee36, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Grade5
+  - league-of-legends-20-eu
+  - Grade1
+  - Grade3
+  - ZayaRakan
+  - Grade4
+  - Grade2
+  - Kennen
+  - Katarina
+  - Nami
+  m_Tag: UIAtlas
+  m_IsVariant: 0
