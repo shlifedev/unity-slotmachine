@@ -1,8 +1,5 @@
 
-simple slot machine.
-SlotMachine.cs is core source code. 
-other of the source code is not important :D
-
+simple slot machine
 
 
 
