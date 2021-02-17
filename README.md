@@ -1,3 +1,4 @@
 ![WaitGifLoading](https://github.com/shlifedev/Simple-SlotMachine-Unity/blob/master/changeUSS.gif)
 
-simple.
+Linige mobile style slotmachine :)
+
