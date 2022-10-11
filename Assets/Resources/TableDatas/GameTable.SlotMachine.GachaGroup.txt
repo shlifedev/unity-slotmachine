@@ -1,0 +1,1 @@
+[{"Index":"1","Name":"1성 확률","Percentage":"0.5"},{"Index":"2","Name":"2성 확률","Percentage":"0.3"},{"Index":"3","Name":"3성 확률","Percentage":"0.1"},{"Index":"4","Name":"4성 확률","Percentage":"0.04"},{"Index":"5","Name":"5성 확률","Percentage":"0"}]
