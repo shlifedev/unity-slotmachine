@@ -1,4 +1,4 @@
-![WaitGifLoading](https://github.com/shlifedev/Simple-SlotMachine-Unity/blob/master/changeUSS.gif)
+![WaitGifLoading](https://github.com/shlifedev/unity-slotmachine/blob/main/changeUSS.gif)
 
 Lineage mobile style slotmachine :)
 
